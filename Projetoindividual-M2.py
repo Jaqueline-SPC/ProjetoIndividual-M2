@@ -22,6 +22,17 @@ notamin_t = int(input("Digite a nota mínima para teste teórico: "))
 notamin_p = int(input("Digite a nota mínima para teste prático: "))
 notamin_s = int(input("Digite a nota mínima para avaliação de soft skills: "))
 
+resultados = buscar_candidatos(notamin_e, notamin_t, notamin_p, notamin_s)
+print("Candidatos selecionados:")
+if resultados:
+    for candidato in resultados:
+        print(candidato)
+else:
+    print("Nenhum candidato atende aos critérios.")
+    
+    
+    
+
             
         
         
