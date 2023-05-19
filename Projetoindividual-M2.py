@@ -16,6 +16,12 @@ candidatos = [{"nome": "João", "notas": "e4_t5_p7_s6"},
              {"nome": "Ana", "notas": "e6_t7_p9_s8"},
              {"nome": "Carlos", "notas": "e4_t4_p8_s8"},
              {"nome": "Mariana", "notas": "e7_t8_p9_s9"},]
+
+notamin_e = int(input("Digite a nota mínima para entrevista: "))
+notamin_t = int(input("Digite a nota mínima para teste teórico: "))
+notamin_p = int(input("Digite a nota mínima para teste prático: "))
+notamin_s = int(input("Digite a nota mínima para avaliação de soft skills: "))
+
             
         
         
