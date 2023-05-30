@@ -5,7 +5,7 @@
 
   ## Verificador de Compatibilidade de Candidatos
 
-Este é um código em Python que realiza a seleção de candidatos com base em notas mínimas estabelecidas para entrevista, teste teórico, teste prático e avaliação de soft skills. O código utiliza uma lista de candidatos, representados por dicionários contendo o nome do candidato e suas notas em um formato específico.
+Este é um código em Python que realiza a seleção de candidatos com base em notas mínimas estabelecidas para: Entrevista, Teste Teórico, Teste Prático e Avaliação de Soft Skills. O código utiliza uma lista de candidatos, representados por dicionários contendo o nome do candidato e suas notas em um formato específico.
 
 ## Utilização
 
@@ -15,6 +15,8 @@ Este é um código em Python que realiza a seleção de candidatos com base em n
 4. Execute o código e siga as instruções fornecidas no terminal para inserir as notas mínimas para cada categoria.
 5. O código retornará uma lista com os nomes dos candidatos que atendem aos critérios de nota mínima em todas as categorias.
 6. Os resultados serão exibidos no terminal.
+7.Caso nenhum candidato corresponda aos critérios mínimos, uma
+mensagem apropriada é exibida.
 
 ## Reutilização
 
@@ -25,3 +27,9 @@ Você pode integrar esse código a outros projetos ou usá-lo de forma independe
 **Observação:** Este código foi desenvolvido como exemplo e pode ser aprimorado em termos de tratamento de erros, interface do usuário e outras funcionalidades, dependendo do caso de uso.Sinta-se à vontade para adaptar e modificar o código de acordo com suas necessidades específicas.
 
 Espero que essa explicação seja útil!
+
+## Contato
+
+    LinkedIn: https://www.linkedin.com/in/jaqueline-cunha-01b6a1271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjjvVRMujRGaMGfxStGa0eg%3D%3D
+    
+    Email: jakchellyrick@gmail.com
