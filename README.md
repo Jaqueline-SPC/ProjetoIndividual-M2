@@ -15,7 +15,7 @@ Este é um código em Python que realiza a seleção de candidatos com base em n
 4. Execute o código e siga as instruções fornecidas no terminal para inserir as notas mínimas para cada categoria.
 5. O código retornará uma lista com os nomes dos candidatos que atendem aos critérios de nota mínima em todas as categorias.
 6. Os resultados serão exibidos no terminal.
-7.Caso nenhum candidato corresponda aos critérios mínimos, uma
+7. Caso nenhum candidato corresponda aos critérios mínimos, uma
 mensagem apropriada é exibida.
 
 ## Reutilização
