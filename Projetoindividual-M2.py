@@ -13,7 +13,7 @@ def buscar_candidatos(notamin_entrevista=5, notamin_teste_teórico=5, notamin_te
         if all(nota >= notamin for nota, notamin in zip(notas_int, [notamin_entrevista, notamin_teste_teórico, notamin_teste_prático, notamin_soft_skills])):
             candidatos_selecionados.append(nome)   # Adiciona o nome do candidato à lista de candidatos selecionados
             
-            return candidatos_selecionados # Retorna a lista de candidatos selecionados
+    return candidatos_selecionados # Retorna a lista de candidatos selecionados
 
   
 #Lista de candidatos      
